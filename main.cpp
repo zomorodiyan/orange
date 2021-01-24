@@ -1,5 +1,8 @@
 #include <iostream>
+#include <peeler.hpp>
+
 int  main(){
-  std::cout << "Orange is my favorite color.\n";
+  std::cout << "There are some oranges.\n";
+  peel();
   return(0);
 }
