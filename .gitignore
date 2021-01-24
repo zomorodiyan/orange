@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# build directories
+/[bB][uU][iI][lL][dD]
+
 # Compiled Object files
 *.slo
 *.lo
