@@ -3,6 +3,7 @@
 
 # build directories
 /[bB][uU][iI][lL][dD]
+/[oO][uU][tT]
 
 # Compiled Object files
 *.slo
